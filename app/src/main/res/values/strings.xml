@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MyBooksFinal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="login">Login</string>
+    <string name="camera">Camera</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="book_title">Book Title:</string>
+    <string name="author">Author:</string>
+    <string name="publisher">Publisher:</string>
+    <string name="book_description">Book Description:</string>
+    <string name="date_acquired">Date Acquired:</string>
+    <string name="add_book">Add Book</string>
+    <string name="update_book">Update Book</string>
+    <string name="my_books_list">My Books List</string>
+    <string name="create_category">Create Category</string>
+    <string name="log_out">Log-Out</string>
+    <string name="help">Help</string>
+    <string name="version">Version</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="category_list">Category List</string>
+    <string name="add_category_and_goal">Add Category And Goal</string>
+    <string name="book">book</string>
+    <string name="add_category">Add Category</string>
+    <string name="category">Category</string>
+    <string name="back">Back</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="upload">Upload</string>
+    <string name="capture">Capture</string>
+    <string name="my_books_is_a_small_and_efficient_collection_management_app_that_allows_you_to_collect_categorise_and_organize_books_of_your_choice_my_books_allows_you_to_organise_your_books_into_the_categories_of_your_choice_you_may_add_new_books_to_your_collection_take_a_picture_of_the_book_and_view_a_list_of_all_your_books_added_to_your_collection">My Books is a small and efficient collection management app that allows you to collect, categorise and organize books of your choice. My Books allows you to organise your books into the categories of your choice. You may add new books to your collection, take a picture of the book and view a list of all your books added to your collection.\\</string>
+    <string name="about">About</string>
+    <string name="back_to_home_screen">Back To Home Screen</string>
+
+</resources>
